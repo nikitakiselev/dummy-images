@@ -25,6 +25,6 @@
 
     <h2>Download some images to project folder</h2>
     <p>You can download some images to project folder for demo purposes. Just using this script.</p>
-    <pre>php -r "$(curl -fsSL https://gist.githubusercontent.com/nikitakiselev/6bc24602253e9637233715d24cc9fd31/raw)" 20</pre>
+    <pre>php -r "$(curl -fsSL https://gist.githubusercontent.com/nikitakiselev/c86c56ce39c7eb9ec3c5eba54f24fd76/raw" 20</pre>
     <p>Scripts will download 20 images to the current folder.</p>
 @endsection
